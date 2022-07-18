@@ -1,0 +1,39 @@
+
+
+
+============================================================
+Concierge - Luxury Services PSD Template - Documentation
+============================================================
+
+
+
+1. Group & Layer strcure:
+
+Groups and layers are structured in a logical way in our
+projects. Each element designed on project will have its own
+group, which will consist of layers of that object. We
+usually don't flatten any elements to keep better control
+over the projects.
+
+File groups&layers.jpg illustrates how we group layers in
+our PSD templates.
+
+
+
+2. Credits:
+
+We use stock images from the following sources:
+- photodune.net
+- shutterstock.com
+- unsplash.com (free resource)
+- picjumbo.com (free resource)
+
+We also use fontawesome icon font for icons (fontawesome.io)
+and free google web fonts.
+
+
+
+
+============================================================
+Copyright (C) 2014 by UOUapps
+============================================================
