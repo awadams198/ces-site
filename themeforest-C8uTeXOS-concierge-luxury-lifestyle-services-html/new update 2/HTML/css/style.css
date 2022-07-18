@@ -531,7 +531,8 @@ table td { border-color: #e5e5e5; }
 .overlay img {
   display: block;
   width: 100%;
-  height: auto;
+  height: 200px;
+
 }
 
 .overlay:hover .overlay-content {
