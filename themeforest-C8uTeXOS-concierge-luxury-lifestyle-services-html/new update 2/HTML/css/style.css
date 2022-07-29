@@ -72,6 +72,25 @@ html {
 /* -------------------------------------------------------------------------
     TYPOGRAPHY
 ------------------------------------------------------------------------- */
+
+.header-nav {
+  text-align: center;
+  justify-content: center;
+  /* display: flex; */
+  /* right: 80px; */
+}
+
+.row {
+  display: inline-block;
+  text-align: center;
+}
+
+ul {
+  justify-content: center;
+  display: flex;
+}
+
+
 h1,h2,h3,h4,h5,h6,hgroup,form,ul,ol,dd,figure,pre,table,button,fieldset,hr,iframe {
   margin: 0;
   font-family: 'crimson text', sans-serif;
